@@ -1,0 +1,14 @@
+h1{
+    color: #34495e;
+}
+h4{
+    color: aquamarine;
+}
+.form,
+.greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
